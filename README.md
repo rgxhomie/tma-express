@@ -4,12 +4,9 @@
 
 Before starting the NodeJS server, make sure to install all the required packages. Run the following command in your terminal:
 
-```bash
 npm i
 This will install all the necessary packages for the server to function properly. Once the installation is complete, you can start the server using:
 
-bash
-Copy code
 npm start
 This will initiate the server and make it ready to handle incoming requests.
 
